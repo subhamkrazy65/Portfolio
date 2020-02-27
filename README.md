@@ -1,7 +1,6 @@
 [![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
 
-
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+Subham Kumar Portfolio
 
 ## Preview
 ![pic](https://user-images.githubusercontent.com/31152641/75428576-6e4c7300-596e-11ea-9e49-ac3cac9712c2.png)
